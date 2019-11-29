@@ -1,6 +1,6 @@
 # SonyCamGPS
 
-This Script will Download GPS Assist data for your Sony Alpha 77.
+This Script will Download GPS Assist data for your Sony Alpha 77 (and propably for other models too).
 
 Setup:
 
