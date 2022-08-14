@@ -5,7 +5,7 @@
 
 BASEDIR=$(dirname $0)
 
-mkdir -p $BASEDIR/PRIVATE/SONY/GPS
+mkdir -p $BASEDIR/PRIVATE/SONY/GPS -p
 cd $BASEDIR/PRIVATE/SONY/GPS
 mv assistme.dat assistme.dat_OLD
 wget http://control.d-imaging.sony.co.jp/GPS/assistme.dat
